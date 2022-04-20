@@ -3,7 +3,7 @@
 ## Type Learning
 ![image](https://user-images.githubusercontent.com/76560772/164272463-ce71a2a9-2149-4093-8bfe-0078697c0695.png)
 
-*- Aprendizaje semisupervisado*
+### Aprendizaje semisupervisado*
 
 El aprendizaje semisupervisado es un método de aprendizaje que se da en ML cuando se disponen de dos bloques de datos con dos tipos de dato diferenciados en cada uno de ellos: datos etiquetados* y no etiquetaodos*. De esta forma se enfrenta a los datos a dos fases distintas:
 
@@ -14,7 +14,7 @@ El aprendizaje semisupervisado es un método de aprendizaje que se da en ML cuan
 Este tipo de modelo de aprendizaje se puede usar para la detección de transacciones fraudulentas o para la evaluación de conversaciones teléfonicas en pos de extraer intereses del cliente (sentiment analysis), por poner dos ejemplos.
 
 
-*- Aprendizaje no supervisado*
+### Aprendizaje no supervisado*
 
 El aprendizaje supervisado es el cual solo utilizado dato no etiquetado para la realización de sus análisis. Este tipo de modelo permite ejecutar análisis más complejos que los que podemos encontrar en modelos supervisados debido a que se ven menos ceñidos o regulados por resultados y protocolos dados anteriormente, pero a su vez devuelven unos resultados más impredecibles y de una fiabilidad, a priori, menor que la que pueden devolver otro tipo de modelos que cuenten con datos etiquetados en su análisis.
 
@@ -28,7 +28,6 @@ A su vez, es un tipo de aprendizaje de gran valía dado que permite descubrir re
 *Dato no etiquetado: Aquel que contiene solo información al respecto del individuo/elemento analizado, pero no la resolución del conflicto que se le presenta al modelo en cuestión: Estos mismos datos de clientes previamente mencionados, pero sin tener la clasificación de apto/no apto realizada en el mismo conjunto de datos.
 
   
-2. Antonio
 ### Supervised Learning
 
 Supervised learning is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately. As input data is fed into the model, it adjusts its weights until the model has been fitted appropriately, which occurs as part of the cross validation process.
