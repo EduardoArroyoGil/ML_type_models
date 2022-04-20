@@ -24,9 +24,6 @@ A su vez, es un tipo de aprendizaje de gran valía dado que permite descubrir re
 
 
 
-*Dato etiquetado: Aquel conjunto de datos el cual trae una resolución al respecto de la casuística a la cual se les enfrenta. P.E: a la vista de un conjunto de datos bancarios de distintos clientes, se indica cuales están en disposición de recibir un crédito o no.
-*Dato no etiquetado: Aquel que contiene solo información al respecto del individuo/elemento analizado, pero no la resolución del conflicto que se le presenta al modelo en cuestión: Estos mismos datos de clientes previamente mencionados, pero sin tener la clasificación de apto/no apto realizada en el mismo conjunto de datos.
-
   
 ### Supervised Learning
 
@@ -56,6 +53,11 @@ Types of algorithms fr supervised machine learning:
 in the case of reinforcement learning the goal is to find a suitable action model that would maximize the total cumulative reward of the agent
 ![image](https://user-images.githubusercontent.com/76560772/164272741-2c956587-677f-4454-bd57-0a294b83049f.png)
 
+
+
+- Dato etiquetado: Aquel conjunto de datos el cual trae una resolución al respecto de la casuística a la cual se les enfrenta. P.E: a la vista de un conjunto de datos bancarios de distintos clientes, se indica cuales están en disposición de recibir un crédito o no.
+
+- Dato no etiquetado: Aquel que contiene solo información al respecto del individuo/elemento analizado, pero no la resolución del conflicto que se le presenta al modelo en cuestión: Estos mismos datos de clientes previamente mencionados, pero sin tener la clasificación de apto/no apto realizada en el mismo conjunto de datos.
 
  
 ## Model types
