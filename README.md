@@ -83,6 +83,11 @@ An artificial neural network comprises a set of units that are in a series of la
 
 ![](images/neural_networks.png)
 
+- **Decision Tree**:
+A decision tree is a very useful structural tool for choosing options based on pre-established managerial criteria. Similar to a flowchart, it uses a branching method to represent the possible outcomes of executing a decision. Within the tree, nodes are generated that represent specific variables and the results of the executed tests can be observed in the branches.
+
+![](images/decission_tree_algorithm.png)
+
 ---
 #### Aprendizaje No Supervisado
 - **Clustering**:
@@ -90,10 +95,7 @@ They are mainly used in unsupervised machine learning since it allows organizing
 
 ![](images/clustering_algorithm.png)
 
-- **Decision Tree**:
-A decision tree is a very useful structural tool for choosing options based on pre-established managerial criteria. Similar to a flowchart, it uses a branching method to represent the possible outcomes of executing a decision. Within the tree, nodes are generated that represent specific variables and the results of the executed tests can be observed in the branches.
 
-![](images/decission_tree_algorithm.png)
 
 
 - **Análisis de Componentes Principales**:
