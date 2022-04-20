@@ -3,25 +3,24 @@
 ## Type Learning
 ![image](https://user-images.githubusercontent.com/76560772/164272463-ce71a2a9-2149-4093-8bfe-0078697c0695.png)
 
-### Aprendizaje semisupervisado*
+### Aprendizaje semisupervisado
 
-El aprendizaje semisupervisado es un método de aprendizaje que se da en ML cuando se disponen de dos bloques de datos con dos tipos de dato diferenciados en cada uno de ellos: datos etiquetados* y no etiquetaodos*. De esta forma se enfrenta a los datos a dos fases distintas:
+Semi-supervised learning is a learning method that occurs in ML when there are two data blocks with two different types of data in each of them: labeled* and unlabelled* data. In this way, the data is faced with two different phases:
 
-1- Una primera donde se le muestra al modelo aquellos datos etiquetados para pueda identificar las distintas interacciones a las que va a ser expuesto así como se le da herramientas para resolverlo
+1- A first where the labeled data is shown to the model so that it can identify the different interactions to which it will be exposed as well as given tools to solve it
 
-2- Una segunda donde se enfrenta al modelo con los datos no etiquetados de manera que se pueda evaluar su capacidad de resolución para la casuística propuesta.
+2- A second where the model is confronted with the unlabeled data so that its resolution capacity for the proposed casuistry can be evaluated.
 
-Este tipo de modelo de aprendizaje se puede usar para la detección de transacciones fraudulentas o para la evaluación de conversaciones teléfonicas en pos de extraer intereses del cliente (sentiment analysis), por poner dos ejemplos.
+This type of learning model can be used to detect fraudulent transactions or to evaluate telephone conversations in order to extract customer interests (sentiment analysis), to give two examples.
 
 
-### Aprendizaje no supervisado*
+### Aprendizaje no supervisado
 
-El aprendizaje supervisado es el cual solo utilizado dato no etiquetado para la realización de sus análisis. Este tipo de modelo permite ejecutar análisis más complejos que los que podemos encontrar en modelos supervisados debido a que se ven menos ceñidos o regulados por resultados y protocolos dados anteriormente, pero a su vez devuelven unos resultados más impredecibles y de una fiabilidad, a priori, menor que la que pueden devolver otro tipo de modelos que cuenten con datos etiquetados en su análisis.
+Supervised learning is the one that only used unlabeled data to carry out its analyses. This type of model allows to execute more complex analyzes than those that we can find in supervised models because they are less restricted or regulated by results and protocols given previously, but at the same time they return more unpredictable results and reliability, a priori, lower than that which can be returned by other types of models that have labeled data in their analysis.
 
-Este tipo de aprendizaje suele usarse para la clusterización, agrupación y segmentación de datos donde el propio modelo encuentra y elige las variables más signficativas comunes de los datos que se le entregan para poder devolver una agrupación posterior de la mayor similitud posible entre los datos quer conforman los distintos clusters.
+This type of learning is usually used for clustering, grouping and segmentation of data where the model itself finds and chooses the most significant common variables of the data that is delivered to it in order to return a subsequent grouping of the greatest possible similarity between the data that make up the model. the different clusters.
 
-A su vez, es un tipo de aprendizaje de gran valía dado que permite descubrir relaciones o comportamientos entre datos que, previo a estos análisis, no se conocían.
-
+In turn, it is a type of learning of great value since it allows discovering relationships or behaviors between data that, prior to these analyses, were not known.
 
 
   
