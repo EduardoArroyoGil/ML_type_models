@@ -1,5 +1,7 @@
 # Machine Learning
 
+## Type Learning
+![image](https://user-images.githubusercontent.com/76560772/164272463-ce71a2a9-2149-4093-8bfe-0078697c0695.png)
 
 *- Aprendizaje semisupervisado*
 
