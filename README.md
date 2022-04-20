@@ -33,11 +33,6 @@ A su vez, es un tipo de aprendizaje de gran valía dado que permite descubrir re
   
 ## Model types
 
-puntos:
-- definicion del modelo
-- usos principales del modelo
-- variables principales que inflyen en el modelo
----
 - **Algoritmos de regresión**:
 Cuando se requieren realizar tareas de regresión, el programa de machine learning debe realizar estimaciones y comprender a profundidad las relaciones existentes entre las variables que debe estudiar.
 En este caso el análisis de regresión debe enfocarse en una variable dependiente y una serie de variables diferentes de tipo independientes. Al ejecutarse el algoritmo puede realizar pronósticos o predicciones de una forma muy eficiente.
